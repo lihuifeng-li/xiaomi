@@ -1,0 +1,239 @@
+/* 头部开始 */
+.head {
+	height: 40px;
+	background: #000;
+}
+.head-con {
+	width: 1226px;
+	height: 40px;
+	background: #333;
+	margin: 0px auto;
+}
+.head-left {
+	height: 100%;
+	float: left;
+}
+
+.head-left .text {
+	float: left;
+	font-size: 12px;
+	line-height: 40px;
+	color: #b0b0b0;
+	height: 100%;
+}
+
+.head-left .line {
+	float: left;
+	font-size: 12px;
+	line-height: 40px;
+	color: #b0b0b0;
+	height: 100%;
+	margin: 0px 7px;
+}
+
+.head-left .text:hover {
+	color: #fff;
+}
+.head-right {
+	float: right;
+	width: 250px;
+	height: 100%;
+}
+.head-right .text {
+	float: left;
+	font-size: 12px;
+	line-height: 40px;
+	color: #b0b0b0;
+	height: 100%;
+}
+
+.head-right .text :hover {
+	color: #fff;
+}
+.head-right .line {
+	float: left;
+	font-size: 12px;
+	line-height: 40px;
+	color: #b0b0b0;
+	height: 100%;
+	margin: 0px 7px;
+}
+
+.head-right .car {
+	float: right;
+}
+.head-right .ca {
+	float: left;
+	font-size: 12px;
+	line-height: 40px;
+	color: #f0f0f0;
+	height: 100%;
+	background: #424242;
+	height: 40px;
+}
+
+.head .head-right .ca:hover {
+	background: #fff;
+	color: #FF6700;
+}
+/* 头部结束 */
+/* 下一栏开始 */
+.containa {
+	height: 100px;
+	background: #fff;
+}
+
+.containar {
+	height: 100px;
+	width: 1226px;
+	margin: 0 auto;
+
+}
+
+/* 下一栏底框 */
+.containar .header-logo {
+	width: 240px;
+	height: 100px;
+	float: left;
+}
+
+.containar .header-logo- {
+	background: #ff6700;
+	margin-top: 22px;
+	width: 49px;
+	height: 49px;
+
+
+}
+
+/* 下一栏图片底框 */
+.containar .header-nav {
+	float: left;
+	height: 100%;
+}
+.containar .phoen {
+	float: left;
+	font-size: 16px;
+	line-height: 100px;
+	color: #333;
+	height: 100%;
+	margin: 0px 10px;
+}
+
+.containar .phoen a:hover {
+	color: #FF6700;
+}
+
+.containar .header-search {
+	float: right;
+}
+
+.ss-ri {
+	box-sizing: border-box;
+	width: 296px;
+	height: 50px;
+	float: right;
+	border: 1px solid #000;
+	margin-top: 25px;
+}
+
+.sousuo: span {
+	display: inline;
+	background: rgb(238, 238, 238);
+	position: ;
+}
+
+.sousuo span:hover {
+	color: #fff;
+	background: #FF6700;
+}
+
+.sousuo .sousuo i:hover {
+	color: #FF6700;
+}
+
+.ss-ri input {
+	width: 242px;
+	height: 48px;
+	outline: none;
+	border: 0;
+	float: 0;
+	border-right: 1px solid #000;
+	box-sizing: border-box;
+	padding-left: 10px;
+
+
+}
+
+.ss-ri-in {
+	float: right;
+	margin: auto auto;
+	background: #000000;
+}
+
+.ss-ri- {
+	border: 0 0 0 1px;
+	outline: none;
+	width: 243px;
+	height: 48px;
+}
+
+.ss-ri-b {
+	position: absolute;
+
+}
+
+.sousuodi {
+	position: absolute;
+	left: 10px;
+	right: 0;
+	top: 12px;
+	bottom: 0;
+	margin: 0 auto;
+}
+
+
+
+.ss-ri-b i {
+	width: 50px;
+	height: 52px;
+	margin-left: 12px;
+
+}
+.btdv{
+	margin: 0 auto;
+	box-sizing: border-box;
+	border-top: 1px solid #e3e3e3;
+	width: 1349px;
+	height: 63px;
+	/*margin-top: 22px;*/
+	padding: 0 70px;
+	display: flex;
+	box-shadow: 0px 5px 5px rgba(0,0,0,0.07);
+	position: relative;
+	justify-content: space-between;
+	color: #333;
+}
+.btdvl{
+	height: 60px;
+	width: 106px;
+	font-size: 18px;
+    font-weight: 400;
+    line-height: 60px;
+    color: #212121;
+    line-height: 60px;
+}
+.btdvr{
+	display: flex;
+	align-items: center;
+}
+.btxq a{
+color: #616161;
+	font-size:14px;
+}
+.btdvr .shu{
+	width: 1px;
+	height: 14px;
+	background-color: #616161;
+	margin:0 10px;
+}
